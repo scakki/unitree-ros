@@ -10,7 +10,7 @@ Basic message function: `unitree_legged_msgs`
 The interface between ROS and real robot: `unitree_legged_real`
 ### Note
 * [unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk/releases)
-Newest release is reocommended by unitree but showed errors, which were fixed by v3.5.0  [v3.8.0](https://github.com/unitreerobotics/unitree_legged_sdk/releases/tag/3.8.0) only supports for robot: Go1.
+Newest release is recommended by unitree but showed errors, which were fixed by v3.5.0  [v3.8.0](https://github.com/unitreerobotics/unitree_legged_sdk/releases/tag/3.8.0) only supports for robot: Go1.
 Check release [v3.3.4](https://github.com/unitreerobotics/unitree_legged_sdk/releases/tag/3.3.4) for A1 support.
 * The `ipconfig.sh` file under the folder `unitree_legged_real` is missing in the 'unitree_ros_to_real' GitHub repo in the 'master' branch but can be found in 'foroldsdk' branch.
 
